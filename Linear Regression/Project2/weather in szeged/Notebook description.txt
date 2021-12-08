@@ -3,3 +3,4 @@
 ->feature selection method used:correlation matrix
 ->any changes to make(if any):remove categorical values from the normalize process coz it aint
 necessary and merge it with the normalized array afterwards.
+->Here our aim is to predict Apparent temperature (C) based on other datavalues.
